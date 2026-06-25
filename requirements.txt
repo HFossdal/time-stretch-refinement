@@ -1,0 +1,25 @@
+# Python dependencies for the thesis notebooks.
+#
+# The notebooks were developed and run in Google Colab (NVIDIA A100 / L4 runtimes).
+# Versions are left unpinned to match the Colab environment used during the work.
+# Pin these to your own environment if you need exact reproducibility.
+
+torch
+torchaudio
+librosa
+soundfile
+numpy
+pandas
+matplotlib
+tqdm
+ipython
+
+# BigVGAN is not available on PyPI. It is obtained from the official repository,
+# which provides the `bigvgan`, `models`, and `meldataset` modules used by the
+# notebooks:
+#     https://github.com/NVIDIA/BigVGAN
+#
+# The mel-domain experiments use the pretrained checkpoint:
+#     nvidia/bigvgan_v2_22khz_80band_fmax8k_256x
+#
+# google.colab is provided by the Colab runtime and is not installed via pip.

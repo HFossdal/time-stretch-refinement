@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Model checkpoints and large artifacts (keep these out of the repo)
+*.pt
+*.pth
+*.ckpt
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db

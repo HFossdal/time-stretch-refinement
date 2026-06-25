@@ -1,7 +1,7 @@
 # time-stretch-refinement
 
 Supplementary code and materials for the master's thesis
-**Neural Refinement of Time-Frequency Representations for Audio Time-Stretching**.
+**Neural Refinement of Interpolated Time-Frequency Representations for Audio Time-Stretching**.
 
 | | |
 |---|---|

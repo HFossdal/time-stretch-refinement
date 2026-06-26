@@ -94,7 +94,7 @@ If you refer to this work, please cite the thesis:
 ```bibtex
 @mastersthesis{fossdal2026timestretch,
   author = {Håvard Fossdal},
-  title  = {Neural Refinement of Time-Frequency Representations for Audio Time-Stretching},
+  title  = {Neural Refinement of Interpolated Time-Frequency Representations for Audio Time-Stretching},
   school = {Norwegian University of Science and Technology (NTNU)},
   year   = {2026},
   note   = {TMA4900 -- Industrial Mathematics, Master Thesis}
